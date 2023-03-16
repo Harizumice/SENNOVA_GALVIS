@@ -1,12 +1,18 @@
 body{
     background-image: url(https://cdna.artstation.com/p/assets/images/images/039/272/868/large/lewis-lapper-sanik7.jpg?1625443651);
-    background-size: 900px;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position-x: center;
+    padding: 2rem 3rem;
+    text-align: center;
+    color: #fff;
+    border: 3px solid #fff;
+    box-shadow: 0px 0px 25px #222;
+    backdrop-filter: blur(10px);
 }
 
 h1{
     text-align: center;
     color:gold;
-    font-size: 72px;
+    font-size: 64;
 }
