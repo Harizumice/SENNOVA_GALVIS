@@ -4,3 +4,9 @@ body{
     background-repeat: no-repeat;
     background-position-x: center;
 }
+
+h1{
+    text-align: center;
+    color:gold;
+    font-size: 72px;
+}
